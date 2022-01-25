@@ -37,13 +37,11 @@ paragraf 3
 
 
 Mamy sobie tekst i cos piszemy
-
-```
- def(piwko):
- print("piwoooooo")
- print("dzieeeeeeekan")
- ```
+`print("piwoooooo")`
  I piszemy se dalej. Nie wiem czy to dobre zagnieżdżenie, ale cóż.
+ 
+ ![alt](https://github.com/mpniewskii/WDP-2021-Marcin-Pniewski/blob/283985c7cc65ae86c3dbbd9702d77abbbfadec63/Zaskroniec/Tlo.jpg)	
+ ^^^To z prywatnego repo jbc
  
  
  
